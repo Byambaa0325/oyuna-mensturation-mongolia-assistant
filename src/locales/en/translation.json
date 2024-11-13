@@ -1,0 +1,150 @@
+{
+  "navigation": {
+    "help": "Help & FAQ",
+    "about": "About",
+    "oyuna": "Oyuna"
+  },
+  "chat": {
+    "input": {
+      "placeholder": "Ask me anything..."
+    }
+  },
+  "disclaimer": {
+    "title": "Important Information",
+    "pop_up_text": "This chatbot provides information for educational purposes only and is not a substitute for medical advice, diagnosis, and treatment. For personal health concerns, please consult a healthcare professional.",
+    "inline_text": "Your privacy is important to us. We do not store any usage data from this site.",
+    "tooltip": "Your privacy is important. All interactions are kept anonymous, and personal information is not stored. Contact our support team if you need more details.",
+    "select_role_text": "Hi, welcome to Oyuna. Please select your role to proceed:",
+    "option_for_myself": "For Myself",
+    "option_parent": "I am a Parent",
+    "option_teacher": "I am a Teacher",
+    "option_friend": "For my Friend",
+    "age_group_title": "Select Age Group",
+    "select_age_group_text": "Thanks, for best experience, please select your group:",
+    "age_group_primary": "Primary-School (below 12)",
+    "age_group_middle_school": "Middle-School (13-15)",
+    "age_group_high_school": "High-School (15-17)",
+    "age_group_adult": "I am an Adult (above 18)",
+    "final_title": "Important Information"
+  },
+  "close": "Close",
+  "error": {
+    "network": "Oops, it looks like we're having trouble connecting. Please check your internet connection and try again. If this keeps happening, there may be an issue on our side.",
+    "server": "Oh no! Something went wrong on our end. Our team is already working on it. Please try again later.",
+    "invalid_input": "I'm having trouble understanding your last message. Could you try rephrasing it or giving me a bit more detail?",
+    "timeout": "Sorry, this is taking longer than expected. We might be experiencing high traffic or a complex request. Please try again in a moment.",
+    "unknown": "An unexpected error occurred. We apologize for the trouble. Please try again, and if the issue persists, contact our support team.",
+    "rate_limit": "It looks like you've sent quite a few messages in a short time. Please wait a moment before trying again.",
+    "invalid_user": "Sorry, because I am an AI, I must comply with responsible and safe AI usage. I need a parent supervision to use the chat feature. Please, bring an adult and safely use the chat feature through them."
+  },
+  "feedback": {
+    "title": "We value your feedback!",
+    "description": "Take a quick 5-minute survey to help us improve.",
+    "button": "Give Feedback"
+  },
+  "starter_bot_message": {
+    "default": "Hello! I'm Oyuna. If you have questions about menstruation, feel free to talk with me. Who are you? (Please let me know if you are a woman, parent, teacher, or man.) I am ready to help you.",
+    "option_for_myself": "Hello! I'm Oyuna. I’m here to answer your questions about menstruation. If you want to understand more about your body changes, feel free to talk with me.",
+    "option_parent": "Hello! I'm Oyuna. I’m here to answer your questions regarding your child's menstruation. If you’d like to discuss preparing your child for this change or providing emotional support, please reach out.",
+    "option_teacher": "Hello! I'm Oyuna. I’m here to help you support your students' needs related to menstruation in the classroom. If you’re seeking advice on how to provide support in a learning environment, feel free to contact me.",
+    "option_friend": "Hello! I'm Oyuna. If you’d like advice on how to support friends with menstruation, feel free to talk with me. I’m ready to offer tips on how to help."
+  },
+  "common_question": {
+    "title": "Common Questions",
+    "tagline": "You can ask me anything! Or, get started with some of these:",
+    "one": "What are some ways to reduce cramps during my period?",
+    "two": "How do I know if my period is normal?",
+    "three": "Can what I eat make my period better or worse?",
+    "four": "When should I worry about my period and see a doctor?",
+    "self": {
+      "primary": {
+        "first_period": "What should I expect when I get my first period?",
+        "period_pain": "How can I manage period cramps and discomfort?",
+        "hygiene_basics": "What are the essential hygiene practices during menstruation?",
+        "period_products": "What menstrual products are suitable for beginners?"
+      },
+      "middle": {
+        "irregular_periods": "Why are my periods irregular and should I be concerned?",
+        "period_tracking": "How can I track my menstrual cycle effectively?",
+        "school_management": "How do I manage my period while at school?"
+      },
+      "high": {
+        "pms_management": "What are the best ways to cope with PMS symptoms?",
+        "heavy_periods": "How do I handle heavy menstrual flow?",
+        "exercise_periods": "Can I exercise during my period, and what precautions should I take?"
+      },
+      "adult": {
+        "workplace_periods": "How can I manage menstruation effectively at work?",
+        "menstrual_health": "What are the signs of good menstrual health?",
+        "sustainable_products": "What sustainable menstrual products are available?"
+      }
+    },
+    "parent": {
+      "primary": {
+        "first_period_prep": "How can I prepare my child for their first period?",
+        "period_talk": "How do I start a conversation about periods with my child?",
+        "emotional_support": "How can I provide emotional support during menstruation?"
+      },
+      "middle": {
+        "product_guidance": "How do I guide my child in choosing menstrual products?",
+        "cycle_education": "How can I explain the menstrual cycle to my teenager?",
+        "school_support": "How can I support my child with period management at school?"
+      },
+      "high": {
+        "health_concerns": "What menstrual health issues should I watch for in my teenager?",
+        "emotional_changes": "How can I help my teenager cope with menstrual-related mood changes?",
+        "medical_advice": "When should I seek medical advice for my child's menstrual issues?"
+      },
+      "adult": {
+        "menstrual_disorders": "How can I recognize signs of menstrual disorders?",
+        "reproductive_health": "What should I know about reproductive health and menstruation?",
+        "healthcare_guidance": "How can I guide my child in seeking menstrual healthcare?"
+      }
+    },
+    "teacher": {
+      "primary": {
+        "classroom_support": "How can I support students who menstruate in my classroom?",
+        "emergency_situations": "How should I handle period-related emergencies at school?",
+        "education_resources": "What resources can I use to teach about menstruation?"
+      },
+      "middle": {
+        "student_support": "How can I support students dealing with period challenges?",
+        "inclusive_environment": "How do I create a period-friendly classroom environment?",
+        "health_education": "What should I include in menstrual health education?"
+      },
+      "high": {
+        "menstrual_awareness": "How can I promote menstrual awareness in school?",
+        "student_accommodations": "What accommodations can I provide for menstruating students?",
+        "health_resources": "What menstrual health resources should be available at school?"
+      },
+      "adult": {
+        "workplace_policies": "How can I implement period-friendly workplace policies?",
+        "health_workshops": "How do I organize effective menstrual health workshops?",
+        "support_systems": "What support systems should be in place for menstruating staff?"
+      }
+    },
+    "friend": {
+      "primary": {
+        "emergency_help": "How can I help a friend during a period emergency?",
+        "emotional_support": "How can I support a friend who just started menstruating?",
+        "basic_knowledge": "What basic period knowledge should I know to help friends?"
+      },
+      "middle": {
+        "period_support": "How can I support friends during their periods?",
+        "product_sharing": "How should I handle sharing period products with friends?",
+        "comfort_tips": "What comfort tips can I share with menstruating friends?"
+      },
+      "high": {
+        "health_concerns": "How do I recognize when a friend needs medical help for period issues?",
+        "emotional_support": "How can I provide emotional support during PMS?",
+        "practical_help": "What practical help can I offer to friends during their period?"
+      },
+      "adult": {
+        "health_awareness": "How can I promote menstrual health awareness among friends?",
+        "support_network": "How do I create a supportive network for period-related issues?",
+        "medical_guidance": "How can I guide friends to seek appropriate menstrual healthcare?"
+      }
+    }
+  }
+}
+

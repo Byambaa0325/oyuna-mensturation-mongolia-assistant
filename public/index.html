@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Empowering Mongolia with safe, culturally sensitive menstrual health information for girls, parents, teachers, and boys." />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="%PUBLIC_URL%/favicon.ico" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+            rel="preload"
+            href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Raleway:wght@400;600;700&display=swap"
+            as="style"
+            onload="this.onload=null;this.rel='stylesheet'"
+            crossorigin
+    />
+    <style>
+        /* Fallback font */
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+    </style>
+
+
+    <!-- Fallback for browsers that don't support preload -->
+    <noscript>
+        <link
+                href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+                rel="stylesheet"
+                type="text/css"
+        />
+    </noscript>
+
+    <!-- Material Icons Preload -->
+    <link
+            rel="preload"
+            href="https://fonts.googleapis.com/icon?family=Material+Icons"
+            as="style"
+            onload="this.onload=null;this.rel='stylesheet'"
+    />
+
+
+    <!-- Manifest -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- Page Title -->
+    <title>Oyuna - Mongolia’s Trusted Menstrual Health AI Chatbot</title>
+
+    <!-- Title of the website -->
+    <meta property="og:title" content="Oyuna - Mongolia’s Trusted Menstrual Health AI Chatbot" />
+
+    <!-- Description of the website -->
+    <meta property="og:description" content="Empowering Mongolia with safe, culturally sensitive menstrual health information for girls, parents, teachers, and boys." />
+
+    <!-- URL of the website (canonical URL) -->
+    <meta property="og:url" content="https://period.mn/" />
+
+    <!-- Type of content (e.g., website, article, video) -->
+    <meta property="og:type" content="website" />
+
+    <!-- Image for preview (ideal size is 1200 x 630 px for Facebook) -->
+    <meta property="og:image" content="%PUBLIC_URL%/optimized-images/background-cover.webp" />
+
+    <!-- Image alt text for accessibility -->
+    <meta property="og:image:alt" content="Oyuna concept background cover" />
+
+
+</head>
+<body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="root"></div>
+
+<!-- Prevent Flash of Unstyled Content -->
+<script>
+    (function() {
+        document.documentElement.style.visibility = 'hidden';
+        document.addEventListener('DOMContentLoaded', function() {
+            document.documentElement.style.visibility = '';
+        });
+    })();
+</script>
+</body>
+</html>
